@@ -1,0 +1,13 @@
+Ahmad,History,22
+Ali,Computer,22
+Zara,English,6
+Fatima,Urdu,1
+Hassan,History,2
+Muntaha,Computer,18
+Hassan,Chemistry,4
+Muntaha,Biology,4
+Ahmad,Chemistry,2
+Zara,History,1
+Wareesha Ameer Khan,Computer,1
+Ahsan,Geography,1
+Ali,History,1

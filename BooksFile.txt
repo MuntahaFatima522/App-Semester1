@@ -1,0 +1,10 @@
+Computer,24
+Physics,22
+Mathematics,45
+English,28
+Urdu,77
+Biology,38
+Chemistry,19
+History,66
+Geography,43
+Pak,28
